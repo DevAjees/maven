@@ -13,7 +13,7 @@
     <br>
     
     <label for="mobile"><b>Enter bye</b></label>
-    <input type="text" placeholder="Enter Rahul moible number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Enter Kamini number" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter myEmail</b></label>
