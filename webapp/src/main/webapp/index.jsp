@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>New user Register for DevOps Course</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -13,7 +13,7 @@
     <br>
     
     <label for="mobile"><b>Enter bye</b></label>
-    <input type="text" placeholder="Enter Kamini Python Developer number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Enter Mobile number" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter myEmail</b></label>
