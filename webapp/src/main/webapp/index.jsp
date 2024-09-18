@@ -24,7 +24,7 @@
     <input type="key" placeholder="Enter key" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label for="psw-repeat"><b>Confirm Password</b></label>
     <input type="key" placeholder="Repeat key" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
