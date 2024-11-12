@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New User Register for Cloud Course</h1>
-    <p>Please Fill In This Form To Create An New Account.</p>
+    <p>Please Fill In This Form Die.</p>
     <hr>
      
     <label for="Name"><b>Enter Your Full Name:</b></label>
